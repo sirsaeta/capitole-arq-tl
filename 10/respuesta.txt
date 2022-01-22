@@ -1,0 +1,3 @@
+a) Seleccione Listas para resolverlo ya que desde mi punto de vista es la mas ajustable a distintos escenarios, asignadole un indice a cada valor
+
+b) La mayor dificulta fue comprender el comportamiento deseado del arbol o grafo, deja varias incognitas o cosas que pueden ser tomadas a libre interpretación. Entre las mejoras a realizar seria agregarle recursividad y un poco menos el uso de bucles
